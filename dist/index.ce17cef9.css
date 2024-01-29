@@ -1,0 +1,1299 @@
+.absolute {
+  position: absolute;
+}
+
+.\!relative {
+  position: relative !important;
+}
+
+.relative {
+  position: relative;
+}
+
+.-top-px {
+  top: -1px;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.top-\[14px\] {
+  top: 14px;
+}
+
+.top-\[21px\] {
+  top: 21px;
+}
+
+.mt-\[-1\.00px\] {
+  margin-top: -1px;
+}
+
+.flex {
+  display: flex;
+}
+
+.inline-flex {
+  display: inline-flex;
+}
+
+.\!h-\[14px\] {
+  height: 14px !important;
+}
+
+.\!h-\[16px\] {
+  height: 16px !important;
+}
+
+.\!h-\[20px\] {
+  height: 20px !important;
+}
+
+.h-\[13px\] {
+  height: 13px;
+}
+
+.h-\[16px\] {
+  height: 16px;
+}
+
+.h-\[224px\] {
+  height: 224px;
+}
+
+.h-px {
+  height: 1px;
+}
+
+.\!w-\[14px\] {
+  width: 14px !important;
+}
+
+.\!w-\[16px\] {
+  width: 16px !important;
+}
+
+.\!w-\[20px\] {
+  width: 20px !important;
+}
+
+.\!w-\[413px\] {
+  width: 413px !important;
+}
+
+.\!w-\[unset\] {
+  width: unset !important;
+}
+
+.\!w-full {
+  width: 100% !important;
+}
+
+.w-\[18px\] {
+  width: 18px;
+}
+
+.w-\[324px\] {
+  width: 324px;
+}
+
+.w-\[32px\] {
+  width: 32px;
+}
+
+.w-\[336px\] {
+  width: 336px;
+}
+
+.w-\[360px\] {
+  width: 360px;
+}
+
+.w-\[6px\] {
+  width: 6px;
+}
+
+.w-fit {
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.w-px {
+  width: 1px;
+}
+
+.\!flex-\[0_0_auto\] {
+  flex: none !important;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-\[0_0_auto\] {
+  flex: none;
+}
+
+.grow {
+  flex-grow: 1;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-start {
+  align-items: flex-start;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.gap-\[10px\] {
+  gap: 10px;
+}
+
+.gap-\[12px\] {
+  gap: 12px;
+}
+
+.gap-\[2px\] {
+  gap: 2px;
+}
+
+.gap-\[4px\] {
+  gap: 4px;
+}
+
+.gap-\[5px\] {
+  gap: 5px;
+}
+
+.gap-\[6px\] {
+  gap: 6px;
+}
+
+.gap-\[8px\] {
+  gap: 8px;
+}
+
+.\!self-stretch {
+  align-self: stretch !important;
+}
+
+.self-stretch {
+  align-self: stretch;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.whitespace-nowrap {
+  white-space: nowrap;
+}
+
+.rounded-\[5px\] {
+  border-radius: 5px;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.border-b {
+  border-bottom-width: 1px;
+}
+
+.border-solid {
+  border-style: solid;
+}
+
+.border-extendedblue-gray800 {
+  border-color: var(--extendedblue-gray800);
+}
+
+.bg-extendedblue-gray900 {
+  background-color: var(--extendedblue-gray900);
+}
+
+.object-cover {
+  object-fit: cover;
+}
+
+.p-\[12px\] {
+  padding: 12px;
+}
+
+.px-0 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.px-\[12px\] {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.py-0 {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.pb-\[12px\] {
+  padding-bottom: 12px;
+}
+
+.pb-\[8px\] {
+  padding-bottom: 8px;
+}
+
+.pl-\[12px\] {
+  padding-left: 12px;
+}
+
+.pl-\[14px\] {
+  padding-left: 14px;
+}
+
+.pr-0 {
+  padding-right: 0;
+}
+
+.pt-0 {
+  padding-top: 0;
+}
+
+.pt-\[8px\] {
+  padding-top: 8px;
+}
+
+.text-\[12px\] {
+  font-size: 12px;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.leading-\[13px\] {
+  line-height: 13px;
+}
+
+.tracking-\[0\] {
+  letter-spacing: 0;
+}
+
+.\!text-extendedblue-gray400 {
+  color: var(--extendedblue-gray400) !important;
+}
+
+.text-defaultgreen-500 {
+  color: var(--defaultgreen-500);
+}
+
+.text-defaultpurple-500 {
+  color: var(--defaultpurple-500);
+}
+
+.text-defaultyellow-500 {
+  color: var(--defaultyellow-500);
+}
+
+.text-extendedblue-gray100 {
+  color: var(--extendedblue-gray100);
+}
+
+.text-extendedblue-gray300 {
+  color: var(--extendedblue-gray300);
+}
+
+.text-extendedblue-gray500 {
+  color: var(--extendedblue-gray500);
+}
+
+.text-extendedblue-gray600 {
+  color: var(--extendedblue-gray600);
+}
+
+.text-extendedcyan-500 {
+  color: var(--extendedcyan-500);
+}
+
+.text-extendedred-700 {
+  color: var(--extendedred-700);
+}
+
+.text-orange-900 {
+  --tw-text-opacity: 1;
+  color: rgb(124 45 18 / var(--tw-text-opacity));
+}
+
+.text-transparent {
+  color: #0000;
+}
+
+.text-violet-500 {
+  --tw-text-opacity: 1;
+  color: rgb(139 92 246 / var(--tw-text-opacity));
+}
+
+.\[border-bottom-style\:solid\] {
+  border-bottom-style: solid;
+}
+
+.\[font-family\:\'Inter\'\,Helvetica\] {
+  font-family: Inter, Helvetica;
+}
+
+:root {
+  --defaultblack: #000;
+  --defaultblue-100: #dbeafe;
+  --defaultblue-200: #bfdbfe;
+  --defaultblue-300: #93c5fd;
+  --defaultblue-400: #60a5fa;
+  --defaultblue-50: #eff6ff;
+  --defaultblue-500: #3b82f6;
+  --defaultblue-600: #2563eb;
+  --defaultblue-700: #1d4ed8;
+  --defaultblue-800: #1e40af;
+  --defaultblue-900: #1e3a8a;
+  --defaultgray-100: #f3f4f6;
+  --defaultgray-200: #e5e7eb;
+  --defaultgray-300: #d1d5db;
+  --defaultgray-400: #9ca3af;
+  --defaultgray-50: #f9fafb;
+  --defaultgray-500: #6b7280;
+  --defaultgray-600: #4b5563;
+  --defaultgray-700: #374151;
+  --defaultgray-800: #1f2937;
+  --defaultgray-900: #111827;
+  --defaultgreen-100: #d1fae5;
+  --defaultgreen-200: #a7f3d0;
+  --defaultgreen-300: #6ee7b7;
+  --defaultgreen-400: #34d399;
+  --defaultgreen-50: #ecfdf5;
+  --defaultgreen-500: #10b981;
+  --defaultgreen-600: #059669;
+  --defaultgreen-700: #047857;
+  --defaultgreen-800: #065f46;
+  --defaultgreen-900: #064e3b;
+  --defaultindigo-100: #e0e7ff;
+  --defaultindigo-200: #c7d2fe;
+  --defaultindigo-300: #a5b4fc;
+  --defaultindigo-400: #818cf8;
+  --defaultindigo-50: #eef2ff;
+  --defaultindigo-500: #6366f1;
+  --defaultindigo-600: #4f46e5;
+  --defaultindigo-700: #4338ca;
+  --defaultindigo-800: #3730a3;
+  --defaultindigo-900: #312e81;
+  --defaultpink-100: #fce7f3;
+  --defaultpink-200: #fbcfe8;
+  --defaultpink-300: #f9a8d4;
+  --defaultpink-400: #f472b6;
+  --defaultpink-50: #fdf2f8;
+  --defaultpink-500: #ec4899;
+  --defaultpink-600: #db2777;
+  --defaultpink-700: #be185d;
+  --defaultpink-800: #9d174d;
+  --defaultpink-900: #831843;
+  --defaultpink-90035: #83184359;
+  --defaultpurple-100: #ede9fe;
+  --defaultpurple-200: #ddd6fe;
+  --defaultpurple-300: #c4b5fd;
+  --defaultpurple-400: #a78bfa;
+  --defaultpurple-50: #f5f3ff;
+  --defaultpurple-500: #8b5cf6;
+  --defaultpurple-600: #7c3aed;
+  --defaultpurple-700: #6d28d9;
+  --defaultpurple-800: #5b21b6;
+  --defaultpurple-900: #4c1d95;
+  --defaultred-100: #fee2e2;
+  --defaultred-200: #fecaca;
+  --defaultred-300: #fca5a5;
+  --defaultred-400: #f87171;
+  --defaultred-50: #fef2f2;
+  --defaultred-500: #ef4444;
+  --defaultred-600: #dc2626;
+  --defaultred-700: #b91c1c;
+  --defaultred-800: #991b1b;
+  --defaultred-900: #7f1d1d;
+  --defaultwhite: #fff;
+  --defaultyellow-100: #fef3c7;
+  --defaultyellow-200: #fde68a;
+  --defaultyellow-300: #fcd34d;
+  --defaultyellow-400: #fbbf24;
+  --defaultyellow-50: #fffbeb;
+  --defaultyellow-500: #f59e0b;
+  --defaultyellow-600: #d97706;
+  --defaultyellow-700: #b45309;
+  --defaultyellow-800: #92400e;
+  --defaultyellow-900: #78350f;
+  --extendedamber-100: #fef3c7;
+  --extendedamber-200: #fde68a;
+  --extendedamber-300: #fcd34d;
+  --extendedamber-400: #fbbf24;
+  --extendedamber-50: #fffbeb;
+  --extendedamber-500: #f59e0b;
+  --extendedamber-600: #d97706;
+  --extendedamber-700: #b45309;
+  --extendedamber-800: #92400e;
+  --extendedamber-900: #78350f;
+  --extendedblue-100: #dbeafe;
+  --extendedblue-200: #bfdbfe;
+  --extendedblue-300: #93c5fd;
+  --extendedblue-400: #60a5fa;
+  --extendedblue-50: #eff6ff;
+  --extendedblue-500: #3b82f6;
+  --extendedblue-600: #2563eb;
+  --extendedblue-700: #1d4ed8;
+  --extendedblue-800: #1e40af;
+  --extendedblue-900: #1e3a8a;
+  --extendedblue-gray100: #f1f5f9;
+  --extendedblue-gray200: #e2e8f0;
+  --extendedblue-gray300: #cbd5e1;
+  --extendedblue-gray400: #94a3b8;
+  --extendedblue-gray50: #f8fafc;
+  --extendedblue-gray500: #64748b;
+  --extendedblue-gray600: #475569;
+  --extendedblue-gray700: #334155;
+  --extendedblue-gray800: #1e293b;
+  --extendedblue-gray900: #0f172a;
+  --extendedcool-gray100: #f3f4f6;
+  --extendedcool-gray200: #e5e7eb;
+  --extendedcool-gray300: #d1d5db;
+  --extendedcool-gray400: #9ca3af;
+  --extendedcool-gray50: #f9fafb;
+  --extendedcool-gray500: #6b7280;
+  --extendedcool-gray600: #4b5563;
+  --extendedcool-gray700: #374151;
+  --extendedcool-gray800: #1f2937;
+  --extendedcool-gray900: #111827;
+  --extendedcyan-100: #cffafe;
+  --extendedcyan-200: #a5f3fc;
+  --extendedcyan-300: #67e8f9;
+  --extendedcyan-400: #22d3ee;
+  --extendedcyan-50: #ecfeff;
+  --extendedcyan-500: #06b6d4;
+  --extendedcyan-600: #0891b2;
+  --extendedcyan-700: #0e7490;
+  --extendedcyan-800: #155e75;
+  --extendedcyan-900: #164e63;
+  --extendedemerald-100: #d1fae5;
+  --extendedemerald-200: #a7f3d0;
+  --extendedemerald-300: #6ee7b7;
+  --extendedemerald-400: #34d399;
+  --extendedemerald-50: #ecfdf5;
+  --extendedemerald-500: #10b981;
+  --extendedemerald-600: #059669;
+  --extendedemerald-700: #047857;
+  --extendedemerald-800: #065f46;
+  --extendedemerald-900: #064e3b;
+  --extendedfuschia-100: #fae8ff;
+  --extendedfuschia-200: #f5d0fe;
+  --extendedfuschia-300: #f0abfc;
+  --extendedfuschia-400: #e879f9;
+  --extendedfuschia-50: #fdf4ff;
+  --extendedfuschia-500: #d946ef;
+  --extendedfuschia-600: #c026d3;
+  --extendedfuschia-700: #a21caf;
+  --extendedfuschia-800: #86198f;
+  --extendedfuschia-900: #701a75;
+  --extendedgray-100: #f4f4f5;
+  --extendedgray-200: #e4e4e7;
+  --extendedgray-300: #d4d4d8;
+  --extendedgray-400: #a1a1aa;
+  --extendedgray-50: #fafafa;
+  --extendedgray-500: #71717a;
+  --extendedgray-600: #52525b;
+  --extendedgray-700: #3f3f46;
+  --extendedgray-800: #27272a;
+  --extendedgray-900: #18181b;
+  --extendedgreen-100: #dcfce7;
+  --extendedgreen-200: #bbf7d0;
+  --extendedgreen-300: #86efac;
+  --extendedgreen-400: #4ade80;
+  --extendedgreen-500: #22c55e;
+  --extendedgreen-600: #16a34a;
+  --extendedgreen-700: #15803d;
+  --extendedgreen-800: #166534;
+  --extendedgreen-900: #14532d;
+  --extendedindigo-100: #e0e7ff;
+  --extendedindigo-200: #c7d2fe;
+  --extendedindigo-300: #a5b4fc;
+  --extendedindigo-400: #818cf8;
+  --extendedindigo-50: #eef2ff;
+  --extendedindigo-500: #6366f1;
+  --extendedindigo-600: #4f46e5;
+  --extendedindigo-700: #4338ca;
+  --extendedindigo-800: #3730a3;
+  --extendedindigo-900: #312e81;
+  --extendedlight-blue100: #e0f2fe;
+  --extendedlight-blue200: #bae6fd;
+  --extendedlight-blue300: #7dd3fc;
+  --extendedlight-blue400: #38bdf8;
+  --extendedlight-blue50: #f0f9ff;
+  --extendedlight-blue500: #0ea5e9;
+  --extendedlight-blue600: #0284c7;
+  --extendedlight-blue700: #0369a1;
+  --extendedlight-blue800: #075985;
+  --extendedlight-blue900: #0c4a6e;
+  --extendedlime-100: #ecfccb;
+  --extendedlime-200: #d9f99d;
+  --extendedlime-300: #bef264;
+  --extendedlime-400: #a3e635;
+  --extendedlime-50: #f7fee7;
+  --extendedlime-500: #84cc16;
+  --extendedlime-600: #65a30d;
+  --extendedlime-700: #4d7c0f;
+  --extendedlime-800: #3f6212;
+  --extendedlime-900: #365314;
+  --extendedorange-100: #ffedd5;
+  --extendedorange-200: #fed7aa;
+  --extendedorange-300: #fdba74;
+  --extendedorange-400: #fb923c;
+  --extendedorange-50: #fff7ed;
+  --extendedorange-500: #f97316;
+  --extendedorange-600: #ea580c;
+  --extendedorange-700: #c2410c;
+  --extendedorange-800: #9a3412;
+  --extendedorange-900: #7c2d12;
+  --extendedpink-100: #fce7f3;
+  --extendedpink-200: #fbcfe8;
+  --extendedpink-300: #f9a8d4;
+  --extendedpink-400: #f472b6;
+  --extendedpink-50: #fdf2f8;
+  --extendedpink-500: #ec4899;
+  --extendedpink-600: #db2777;
+  --extendedpink-700: #be185d;
+  --extendedpink-800: #9d174d;
+  --extendedpink-900: #831843;
+  --extendedpurple-100: #f3e8ff;
+  --extendedpurple-200: #e9d5ff;
+  --extendedpurple-300: #d8b4fe;
+  --extendedpurple-400: #c084fc;
+  --extendedpurple-50: #faf5ff;
+  --extendedpurple-500: #a855f7;
+  --extendedpurple-600: #9333ea;
+  --extendedpurple-700: #7e22ce;
+  --extendedpurple-800: #6b21a8;
+  --extendedpurple-900: #581c87;
+  --extendedred-100: #fee2e2;
+  --extendedred-200: #fecaca;
+  --extendedred-300: #fca5a5;
+  --extendedred-400: #f87171;
+  --extendedred-50: #fef2f2;
+  --extendedred-500: #ef4444;
+  --extendedred-600: #dc2626;
+  --extendedred-700: #b91c1c;
+  --extendedred-800: #991b1b;
+  --extendedred-900: #7f1d1d;
+  --extendedrose-100: #ffe4e6;
+  --extendedrose-200: #fecdd3;
+  --extendedrose-300: #fda4af;
+  --extendedrose-400: #fb7185;
+  --extendedrose-50: #fff1f2;
+  --extendedrose-500: #f43f5e;
+  --extendedrose-600: #e11d48;
+  --extendedrose-700: #be123c;
+  --extendedrose-800: #9f1239;
+  --extendedrose-900: #881337;
+  --extendedteal-100: #ccfbf1;
+  --extendedteal-200: #99f6e4;
+  --extendedteal-300: #5eead4;
+  --extendedteal-400: #2dd4bf;
+  --extendedteal-50: #f0fdfa;
+  --extendedteal-500: #14b8a6;
+  --extendedteal-600: #0d9488;
+  --extendedteal-700: #0f766e;
+  --extendedteal-800: #115e59;
+  --extendedteal-900: #134e4a;
+  --extendedtrue-gray10: #f5f5f5;
+  --extendedtrue-gray200: #e5e5e5;
+  --extendedtrue-gray300: #d4d4d4;
+  --extendedtrue-gray400: #a3a3a3;
+  --extendedtrue-gray50: #fafafa;
+  --extendedtrue-gray500: #737373;
+  --extendedtrue-gray600: #525252;
+  --extendedtrue-gray700: #404040;
+  --extendedtrue-gray800: #262626;
+  --extendedtrue-gray900: #171717;
+  --extendedviolet-100: #ede9fe;
+  --extendedviolet-200: #ddd6fe;
+  --extendedviolet-300: #c4b5fd;
+  --extendedviolet-400: #a78bfa;
+  --extendedviolet-50: #f5f3ff;
+  --extendedviolet-500: #8b5cf6;
+  --extendedviolet-600: #7c3aed;
+  --extendedviolet-700: #6d28d9;
+  --extendedviolet-800: #5b21b6;
+  --extendedviolet-900: #4c1d95;
+  --extendedwarm-gray100: #f5f5f4;
+  --extendedwarm-gray200: #e7e5e4;
+  --extendedwarm-gray300: #d6d3d1;
+  --extendedwarm-gray400: #a8a29e;
+  --extendedwarm-gray50: #fafaf9;
+  --extendedwarm-gray500: #78716c;
+  --extendedwarm-gray600: #57534e;
+  --extendedwarm-gray700: #44403c;
+  --extendedwarm-gray800: #292524;
+  --extendedwarm-gray900: #1c1917;
+  --extendedyellow-100: #fef9c3;
+  --extendedyellow-200: #fef08a;
+  --extendedyellow-300: #fde047;
+  --extendedyellow-400: #facc15;
+  --extendedyellow-50: #fefce8;
+  --extendedyellow-500: #eab308;
+  --extendedyellow-600: #ca8a04;
+  --extendedyellow-700: #a16207;
+  --extendedyellow-800: #854d0e;
+  --extendedyellow-900: #713f12;
+  --highlight-shadow: 0px 0px 29px 0px #be185d80;
+  --primary-gradient-over-dark-background: #0f172a;
+  --shadow-2xl: 0px 25px 50px -12px #00000040;
+  --shadow-base: 0px 1px 2px 0px #0000000f, 0px 1px 3px 0px #0000001a;
+  --shadow-inner: ;
+  --shadow-lg: 0px 4px 6px -2px #0000000d, 0px 10px 15px -3px #0000001a;
+  --shadow-md: 0px 2px 4px -1px #0000000f, 0px 4px 6px -1px #0000001a;
+  --shadow-sm: 0px 1px 2px 0px #0000000d;
+  --shadow-xl: 0px 10px 10px -5px #0000000a, 0px 20px 25px -5px #0000001a;
+  --text-2xl-leading-8-font-black-font-family: "Inter-Black", Helvetica;
+  --text-2xl-leading-8-font-black-font-size: 24px;
+  --text-2xl-leading-8-font-black-font-style: normal;
+  --text-2xl-leading-8-font-black-font-weight: 900;
+  --text-2xl-leading-8-font-black-letter-spacing: 0px;
+  --text-2xl-leading-8-font-black-line-height: 32px;
+  --text-2xl-leading-8-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-2xl-leading-8-font-bold-font-size: 24px;
+  --text-2xl-leading-8-font-bold-font-style: normal;
+  --text-2xl-leading-8-font-bold-font-weight: 700;
+  --text-2xl-leading-8-font-bold-letter-spacing: 0px;
+  --text-2xl-leading-8-font-bold-line-height: 32px;
+  --text-2xl-leading-8-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-2xl-leading-8-font-extrabold-font-size: 24px;
+  --text-2xl-leading-8-font-extrabold-font-style: normal;
+  --text-2xl-leading-8-font-extrabold-font-weight: 800;
+  --text-2xl-leading-8-font-extrabold-letter-spacing: 0px;
+  --text-2xl-leading-8-font-extrabold-line-height: 32px;
+  --text-2xl-leading-8-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-2xl-leading-8-font-extralight-font-size: 24px;
+  --text-2xl-leading-8-font-extralight-font-style: normal;
+  --text-2xl-leading-8-font-extralight-font-weight: 200;
+  --text-2xl-leading-8-font-extralight-letter-spacing: 0px;
+  --text-2xl-leading-8-font-extralight-line-height: 32px;
+  --text-2xl-leading-8-font-light-font-family: "Inter-Light", Helvetica;
+  --text-2xl-leading-8-font-light-font-size: 24px;
+  --text-2xl-leading-8-font-light-font-style: normal;
+  --text-2xl-leading-8-font-light-font-weight: 300;
+  --text-2xl-leading-8-font-light-letter-spacing: 0px;
+  --text-2xl-leading-8-font-light-line-height: 32px;
+  --text-2xl-leading-8-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-2xl-leading-8-font-medium-font-size: 24px;
+  --text-2xl-leading-8-font-medium-font-style: normal;
+  --text-2xl-leading-8-font-medium-font-weight: 500;
+  --text-2xl-leading-8-font-medium-letter-spacing: 0px;
+  --text-2xl-leading-8-font-medium-line-height: 32px;
+  --text-2xl-leading-8-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-2xl-leading-8-font-normal-font-size: 24px;
+  --text-2xl-leading-8-font-normal-font-style: normal;
+  --text-2xl-leading-8-font-normal-font-weight: 400;
+  --text-2xl-leading-8-font-normal-letter-spacing: 0px;
+  --text-2xl-leading-8-font-normal-line-height: 32px;
+  --text-2xl-leading-8-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-2xl-leading-8-font-semibold-font-size: 24px;
+  --text-2xl-leading-8-font-semibold-font-style: normal;
+  --text-2xl-leading-8-font-semibold-font-weight: 600;
+  --text-2xl-leading-8-font-semibold-letter-spacing: 0px;
+  --text-2xl-leading-8-font-semibold-line-height: 32px;
+  --text-3xl-leading-9-font-black-font-family: "Inter-Black", Helvetica;
+  --text-3xl-leading-9-font-black-font-size: 30px;
+  --text-3xl-leading-9-font-black-font-style: normal;
+  --text-3xl-leading-9-font-black-font-weight: 900;
+  --text-3xl-leading-9-font-black-letter-spacing: 0px;
+  --text-3xl-leading-9-font-black-line-height: 36px;
+  --text-3xl-leading-9-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-3xl-leading-9-font-bold-font-size: 30px;
+  --text-3xl-leading-9-font-bold-font-style: normal;
+  --text-3xl-leading-9-font-bold-font-weight: 700;
+  --text-3xl-leading-9-font-bold-letter-spacing: 0px;
+  --text-3xl-leading-9-font-bold-line-height: 36px;
+  --text-3xl-leading-9-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-3xl-leading-9-font-extrabold-font-size: 30px;
+  --text-3xl-leading-9-font-extrabold-font-style: normal;
+  --text-3xl-leading-9-font-extrabold-font-weight: 800;
+  --text-3xl-leading-9-font-extrabold-letter-spacing: 0px;
+  --text-3xl-leading-9-font-extrabold-line-height: 36px;
+  --text-3xl-leading-9-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-3xl-leading-9-font-extralight-font-size: 30px;
+  --text-3xl-leading-9-font-extralight-font-style: normal;
+  --text-3xl-leading-9-font-extralight-font-weight: 200;
+  --text-3xl-leading-9-font-extralight-letter-spacing: 0px;
+  --text-3xl-leading-9-font-extralight-line-height: 36px;
+  --text-3xl-leading-9-font-light-font-family: "Inter-Light", Helvetica;
+  --text-3xl-leading-9-font-light-font-size: 30px;
+  --text-3xl-leading-9-font-light-font-style: normal;
+  --text-3xl-leading-9-font-light-font-weight: 300;
+  --text-3xl-leading-9-font-light-letter-spacing: 0px;
+  --text-3xl-leading-9-font-light-line-height: 36px;
+  --text-3xl-leading-9-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-3xl-leading-9-font-medium-font-size: 30px;
+  --text-3xl-leading-9-font-medium-font-style: normal;
+  --text-3xl-leading-9-font-medium-font-weight: 500;
+  --text-3xl-leading-9-font-medium-letter-spacing: 0px;
+  --text-3xl-leading-9-font-medium-line-height: 36px;
+  --text-3xl-leading-9-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-3xl-leading-9-font-normal-font-size: 30px;
+  --text-3xl-leading-9-font-normal-font-style: normal;
+  --text-3xl-leading-9-font-normal-font-weight: 400;
+  --text-3xl-leading-9-font-normal-letter-spacing: 0px;
+  --text-3xl-leading-9-font-normal-line-height: 36px;
+  --text-3xl-leading-9-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-3xl-leading-9-font-semibold-font-size: 30px;
+  --text-3xl-leading-9-font-semibold-font-style: normal;
+  --text-3xl-leading-9-font-semibold-font-weight: 600;
+  --text-3xl-leading-9-font-semibold-letter-spacing: 0px;
+  --text-3xl-leading-9-font-semibold-line-height: 36px;
+  --text-4xl-leading-10-font-black-font-family: "Inter-Black", Helvetica;
+  --text-4xl-leading-10-font-black-font-size: 36px;
+  --text-4xl-leading-10-font-black-font-style: normal;
+  --text-4xl-leading-10-font-black-font-weight: 900;
+  --text-4xl-leading-10-font-black-letter-spacing: 0px;
+  --text-4xl-leading-10-font-black-line-height: 40px;
+  --text-4xl-leading-10-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-4xl-leading-10-font-bold-font-size: 36px;
+  --text-4xl-leading-10-font-bold-font-style: normal;
+  --text-4xl-leading-10-font-bold-font-weight: 700;
+  --text-4xl-leading-10-font-bold-letter-spacing: 0px;
+  --text-4xl-leading-10-font-bold-line-height: 40px;
+  --text-4xl-leading-10-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-4xl-leading-10-font-extrabold-font-size: 36px;
+  --text-4xl-leading-10-font-extrabold-font-style: normal;
+  --text-4xl-leading-10-font-extrabold-font-weight: 800;
+  --text-4xl-leading-10-font-extrabold-letter-spacing: 0px;
+  --text-4xl-leading-10-font-extrabold-line-height: 40px;
+  --text-4xl-leading-10-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-4xl-leading-10-font-extralight-font-size: 36px;
+  --text-4xl-leading-10-font-extralight-font-style: normal;
+  --text-4xl-leading-10-font-extralight-font-weight: 200;
+  --text-4xl-leading-10-font-extralight-letter-spacing: 0px;
+  --text-4xl-leading-10-font-extralight-line-height: 40px;
+  --text-4xl-leading-10-font-light-font-family: "Inter-Light", Helvetica;
+  --text-4xl-leading-10-font-light-font-size: 36px;
+  --text-4xl-leading-10-font-light-font-style: normal;
+  --text-4xl-leading-10-font-light-font-weight: 300;
+  --text-4xl-leading-10-font-light-letter-spacing: 0px;
+  --text-4xl-leading-10-font-light-line-height: 40px;
+  --text-4xl-leading-10-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-4xl-leading-10-font-medium-font-size: 36px;
+  --text-4xl-leading-10-font-medium-font-style: normal;
+  --text-4xl-leading-10-font-medium-font-weight: 500;
+  --text-4xl-leading-10-font-medium-letter-spacing: 0px;
+  --text-4xl-leading-10-font-medium-line-height: 40px;
+  --text-4xl-leading-10-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-4xl-leading-10-font-normal-font-size: 36px;
+  --text-4xl-leading-10-font-normal-font-style: normal;
+  --text-4xl-leading-10-font-normal-font-weight: 400;
+  --text-4xl-leading-10-font-normal-letter-spacing: 0px;
+  --text-4xl-leading-10-font-normal-line-height: 40px;
+  --text-4xl-leading-10-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-4xl-leading-10-font-semibold-font-size: 36px;
+  --text-4xl-leading-10-font-semibold-font-style: normal;
+  --text-4xl-leading-10-font-semibold-font-weight: 600;
+  --text-4xl-leading-10-font-semibold-letter-spacing: 0px;
+  --text-4xl-leading-10-font-semibold-line-height: 40px;
+  --text-5xl-leading-none-font-black-font-family: "Inter-Black", Helvetica;
+  --text-5xl-leading-none-font-black-font-size: 48px;
+  --text-5xl-leading-none-font-black-font-style: normal;
+  --text-5xl-leading-none-font-black-font-weight: 900;
+  --text-5xl-leading-none-font-black-letter-spacing: 0px;
+  --text-5xl-leading-none-font-black-line-height: 48px;
+  --text-5xl-leading-none-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-5xl-leading-none-font-bold-font-size: 48px;
+  --text-5xl-leading-none-font-bold-font-style: normal;
+  --text-5xl-leading-none-font-bold-font-weight: 700;
+  --text-5xl-leading-none-font-bold-letter-spacing: 0px;
+  --text-5xl-leading-none-font-bold-line-height: 48px;
+  --text-5xl-leading-none-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-5xl-leading-none-font-extrabold-font-size: 48px;
+  --text-5xl-leading-none-font-extrabold-font-style: normal;
+  --text-5xl-leading-none-font-extrabold-font-weight: 800;
+  --text-5xl-leading-none-font-extrabold-letter-spacing: 0px;
+  --text-5xl-leading-none-font-extrabold-line-height: 48px;
+  --text-5xl-leading-none-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-5xl-leading-none-font-extralight-font-size: 48px;
+  --text-5xl-leading-none-font-extralight-font-style: normal;
+  --text-5xl-leading-none-font-extralight-font-weight: 200;
+  --text-5xl-leading-none-font-extralight-letter-spacing: 0px;
+  --text-5xl-leading-none-font-extralight-line-height: 48px;
+  --text-5xl-leading-none-font-light-font-family: "Inter-Light", Helvetica;
+  --text-5xl-leading-none-font-light-font-size: 48px;
+  --text-5xl-leading-none-font-light-font-style: normal;
+  --text-5xl-leading-none-font-light-font-weight: 300;
+  --text-5xl-leading-none-font-light-letter-spacing: 0px;
+  --text-5xl-leading-none-font-light-line-height: 48px;
+  --text-5xl-leading-none-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-5xl-leading-none-font-medium-font-size: 48px;
+  --text-5xl-leading-none-font-medium-font-style: normal;
+  --text-5xl-leading-none-font-medium-font-weight: 500;
+  --text-5xl-leading-none-font-medium-letter-spacing: 0px;
+  --text-5xl-leading-none-font-medium-line-height: 48px;
+  --text-5xl-leading-none-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-5xl-leading-none-font-normal-font-size: 48px;
+  --text-5xl-leading-none-font-normal-font-style: normal;
+  --text-5xl-leading-none-font-normal-font-weight: 400;
+  --text-5xl-leading-none-font-normal-letter-spacing: 0px;
+  --text-5xl-leading-none-font-normal-line-height: 48px;
+  --text-5xl-leading-none-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-5xl-leading-none-font-semibold-font-size: 48px;
+  --text-5xl-leading-none-font-semibold-font-style: normal;
+  --text-5xl-leading-none-font-semibold-font-weight: 600;
+  --text-5xl-leading-none-font-semibold-letter-spacing: 0px;
+  --text-5xl-leading-none-font-semibold-line-height: 48px;
+  --text-5xl-leading-none-font-thin-font-family: "Inter-Thin", Helvetica;
+  --text-5xl-leading-none-font-thin-font-size: 48px;
+  --text-5xl-leading-none-font-thin-font-style: normal;
+  --text-5xl-leading-none-font-thin-font-weight: 100;
+  --text-5xl-leading-none-font-thin-letter-spacing: 0px;
+  --text-5xl-leading-none-font-thin-line-height: 48px;
+  --text-6xl-leading-none-font-black-font-family: "Inter-Black", Helvetica;
+  --text-6xl-leading-none-font-black-font-size: 60px;
+  --text-6xl-leading-none-font-black-font-style: normal;
+  --text-6xl-leading-none-font-black-font-weight: 900;
+  --text-6xl-leading-none-font-black-letter-spacing: 0px;
+  --text-6xl-leading-none-font-black-line-height: 60px;
+  --text-6xl-leading-none-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-6xl-leading-none-font-bold-font-size: 60px;
+  --text-6xl-leading-none-font-bold-font-style: normal;
+  --text-6xl-leading-none-font-bold-font-weight: 700;
+  --text-6xl-leading-none-font-bold-letter-spacing: 0px;
+  --text-6xl-leading-none-font-bold-line-height: 60px;
+  --text-6xl-leading-none-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-6xl-leading-none-font-extrabold-font-size: 60px;
+  --text-6xl-leading-none-font-extrabold-font-style: normal;
+  --text-6xl-leading-none-font-extrabold-font-weight: 800;
+  --text-6xl-leading-none-font-extrabold-letter-spacing: 0px;
+  --text-6xl-leading-none-font-extrabold-line-height: 60px;
+  --text-6xl-leading-none-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-6xl-leading-none-font-extralight-font-size: 60px;
+  --text-6xl-leading-none-font-extralight-font-style: normal;
+  --text-6xl-leading-none-font-extralight-font-weight: 200;
+  --text-6xl-leading-none-font-extralight-letter-spacing: 0px;
+  --text-6xl-leading-none-font-extralight-line-height: 60px;
+  --text-6xl-leading-none-font-light-font-family: "Inter-Light", Helvetica;
+  --text-6xl-leading-none-font-light-font-size: 60px;
+  --text-6xl-leading-none-font-light-font-style: normal;
+  --text-6xl-leading-none-font-light-font-weight: 300;
+  --text-6xl-leading-none-font-light-letter-spacing: 0px;
+  --text-6xl-leading-none-font-light-line-height: 60px;
+  --text-6xl-leading-none-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-6xl-leading-none-font-medium-font-size: 60px;
+  --text-6xl-leading-none-font-medium-font-style: normal;
+  --text-6xl-leading-none-font-medium-font-weight: 500;
+  --text-6xl-leading-none-font-medium-letter-spacing: 0px;
+  --text-6xl-leading-none-font-medium-line-height: 60px;
+  --text-6xl-leading-none-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-6xl-leading-none-font-normal-font-size: 60px;
+  --text-6xl-leading-none-font-normal-font-style: normal;
+  --text-6xl-leading-none-font-normal-font-weight: 400;
+  --text-6xl-leading-none-font-normal-letter-spacing: 0px;
+  --text-6xl-leading-none-font-normal-line-height: 60px;
+  --text-6xl-leading-none-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-6xl-leading-none-font-semibold-font-size: 60px;
+  --text-6xl-leading-none-font-semibold-font-style: normal;
+  --text-6xl-leading-none-font-semibold-font-weight: 600;
+  --text-6xl-leading-none-font-semibold-letter-spacing: 0px;
+  --text-6xl-leading-none-font-semibold-line-height: 60px;
+  --text-6xl-leading-none-font-thin-font-family: "Inter-Thin", Helvetica;
+  --text-6xl-leading-none-font-thin-font-size: 60px;
+  --text-6xl-leading-none-font-thin-font-style: normal;
+  --text-6xl-leading-none-font-thin-font-weight: 100;
+  --text-6xl-leading-none-font-thin-letter-spacing: 0px;
+  --text-6xl-leading-none-font-thin-line-height: 60px;
+  --text-7xl-leading-none-font-black-font-family: "Inter-Black", Helvetica;
+  --text-7xl-leading-none-font-black-font-size: 72px;
+  --text-7xl-leading-none-font-black-font-style: normal;
+  --text-7xl-leading-none-font-black-font-weight: 900;
+  --text-7xl-leading-none-font-black-letter-spacing: 0px;
+  --text-7xl-leading-none-font-black-line-height: 72px;
+  --text-7xl-leading-none-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-7xl-leading-none-font-bold-font-size: 72px;
+  --text-7xl-leading-none-font-bold-font-style: normal;
+  --text-7xl-leading-none-font-bold-font-weight: 700;
+  --text-7xl-leading-none-font-bold-letter-spacing: 0px;
+  --text-7xl-leading-none-font-bold-line-height: 72px;
+  --text-7xl-leading-none-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-7xl-leading-none-font-extrabold-font-size: 72px;
+  --text-7xl-leading-none-font-extrabold-font-style: normal;
+  --text-7xl-leading-none-font-extrabold-font-weight: 800;
+  --text-7xl-leading-none-font-extrabold-letter-spacing: 0px;
+  --text-7xl-leading-none-font-extrabold-line-height: 72px;
+  --text-7xl-leading-none-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-7xl-leading-none-font-extralight-font-size: 72px;
+  --text-7xl-leading-none-font-extralight-font-style: normal;
+  --text-7xl-leading-none-font-extralight-font-weight: 200;
+  --text-7xl-leading-none-font-extralight-letter-spacing: 0px;
+  --text-7xl-leading-none-font-extralight-line-height: 72px;
+  --text-7xl-leading-none-font-light-font-family: "Inter-Light", Helvetica;
+  --text-7xl-leading-none-font-light-font-size: 72px;
+  --text-7xl-leading-none-font-light-font-style: normal;
+  --text-7xl-leading-none-font-light-font-weight: 300;
+  --text-7xl-leading-none-font-light-letter-spacing: 0px;
+  --text-7xl-leading-none-font-light-line-height: 72px;
+  --text-7xl-leading-none-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-7xl-leading-none-font-medium-font-size: 72px;
+  --text-7xl-leading-none-font-medium-font-style: normal;
+  --text-7xl-leading-none-font-medium-font-weight: 500;
+  --text-7xl-leading-none-font-medium-letter-spacing: 0px;
+  --text-7xl-leading-none-font-medium-line-height: 72px;
+  --text-7xl-leading-none-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-7xl-leading-none-font-normal-font-size: 72px;
+  --text-7xl-leading-none-font-normal-font-style: normal;
+  --text-7xl-leading-none-font-normal-font-weight: 400;
+  --text-7xl-leading-none-font-normal-letter-spacing: 0px;
+  --text-7xl-leading-none-font-normal-line-height: 72px;
+  --text-7xl-leading-none-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-7xl-leading-none-font-semibold-font-size: 72px;
+  --text-7xl-leading-none-font-semibold-font-style: normal;
+  --text-7xl-leading-none-font-semibold-font-weight: 600;
+  --text-7xl-leading-none-font-semibold-letter-spacing: 0px;
+  --text-7xl-leading-none-font-semibold-line-height: 72px;
+  --text-7xl-leading-none-font-thin-font-family: "Inter-Thin", Helvetica;
+  --text-7xl-leading-none-font-thin-font-size: 72px;
+  --text-7xl-leading-none-font-thin-font-style: normal;
+  --text-7xl-leading-none-font-thin-font-weight: 100;
+  --text-7xl-leading-none-font-thin-letter-spacing: 0px;
+  --text-7xl-leading-none-font-thin-line-height: 72px;
+  --text-8xl-leading-none-font-black-font-family: "Inter-Black", Helvetica;
+  --text-8xl-leading-none-font-black-font-size: 96px;
+  --text-8xl-leading-none-font-black-font-style: normal;
+  --text-8xl-leading-none-font-black-font-weight: 900;
+  --text-8xl-leading-none-font-black-letter-spacing: 0px;
+  --text-8xl-leading-none-font-black-line-height: 96px;
+  --text-8xl-leading-none-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-8xl-leading-none-font-bold-font-size: 96px;
+  --text-8xl-leading-none-font-bold-font-style: normal;
+  --text-8xl-leading-none-font-bold-font-weight: 700;
+  --text-8xl-leading-none-font-bold-letter-spacing: 0px;
+  --text-8xl-leading-none-font-bold-line-height: 96px;
+  --text-8xl-leading-none-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-8xl-leading-none-font-extrabold-font-size: 96px;
+  --text-8xl-leading-none-font-extrabold-font-style: normal;
+  --text-8xl-leading-none-font-extrabold-font-weight: 800;
+  --text-8xl-leading-none-font-extrabold-letter-spacing: 0px;
+  --text-8xl-leading-none-font-extrabold-line-height: 96px;
+  --text-8xl-leading-none-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-8xl-leading-none-font-extralight-font-size: 96px;
+  --text-8xl-leading-none-font-extralight-font-style: normal;
+  --text-8xl-leading-none-font-extralight-font-weight: 200;
+  --text-8xl-leading-none-font-extralight-letter-spacing: 0px;
+  --text-8xl-leading-none-font-extralight-line-height: 96px;
+  --text-8xl-leading-none-font-light-font-family: "Inter-Light", Helvetica;
+  --text-8xl-leading-none-font-light-font-size: 96px;
+  --text-8xl-leading-none-font-light-font-style: normal;
+  --text-8xl-leading-none-font-light-font-weight: 300;
+  --text-8xl-leading-none-font-light-letter-spacing: 0px;
+  --text-8xl-leading-none-font-light-line-height: 96px;
+  --text-8xl-leading-none-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-8xl-leading-none-font-medium-font-size: 96px;
+  --text-8xl-leading-none-font-medium-font-style: normal;
+  --text-8xl-leading-none-font-medium-font-weight: 500;
+  --text-8xl-leading-none-font-medium-letter-spacing: 0px;
+  --text-8xl-leading-none-font-medium-line-height: 96px;
+  --text-8xl-leading-none-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-8xl-leading-none-font-normal-font-size: 96px;
+  --text-8xl-leading-none-font-normal-font-style: normal;
+  --text-8xl-leading-none-font-normal-font-weight: 400;
+  --text-8xl-leading-none-font-normal-letter-spacing: 0px;
+  --text-8xl-leading-none-font-normal-line-height: 96px;
+  --text-8xl-leading-none-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-8xl-leading-none-font-semibold-font-size: 96px;
+  --text-8xl-leading-none-font-semibold-font-style: normal;
+  --text-8xl-leading-none-font-semibold-font-weight: 600;
+  --text-8xl-leading-none-font-semibold-letter-spacing: 0px;
+  --text-8xl-leading-none-font-semibold-line-height: 96px;
+  --text-8xl-leading-none-font-thin-font-family: "Inter-Thin", Helvetica;
+  --text-8xl-leading-none-font-thin-font-size: 96px;
+  --text-8xl-leading-none-font-thin-font-style: normal;
+  --text-8xl-leading-none-font-thin-font-weight: 100;
+  --text-8xl-leading-none-font-thin-letter-spacing: 0px;
+  --text-8xl-leading-none-font-thin-line-height: 96px;
+  --text-9xl-leading-none-font-black-font-family: "Inter-Black", Helvetica;
+  --text-9xl-leading-none-font-black-font-size: 128px;
+  --text-9xl-leading-none-font-black-font-style: normal;
+  --text-9xl-leading-none-font-black-font-weight: 900;
+  --text-9xl-leading-none-font-black-letter-spacing: 0px;
+  --text-9xl-leading-none-font-black-line-height: 128px;
+  --text-9xl-leading-none-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-9xl-leading-none-font-bold-font-size: 128px;
+  --text-9xl-leading-none-font-bold-font-style: normal;
+  --text-9xl-leading-none-font-bold-font-weight: 700;
+  --text-9xl-leading-none-font-bold-letter-spacing: 0px;
+  --text-9xl-leading-none-font-bold-line-height: 128px;
+  --text-9xl-leading-none-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-9xl-leading-none-font-extrabold-font-size: 128px;
+  --text-9xl-leading-none-font-extrabold-font-style: normal;
+  --text-9xl-leading-none-font-extrabold-font-weight: 800;
+  --text-9xl-leading-none-font-extrabold-letter-spacing: 0px;
+  --text-9xl-leading-none-font-extrabold-line-height: 128px;
+  --text-9xl-leading-none-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-9xl-leading-none-font-extralight-font-size: 128px;
+  --text-9xl-leading-none-font-extralight-font-style: normal;
+  --text-9xl-leading-none-font-extralight-font-weight: 200;
+  --text-9xl-leading-none-font-extralight-letter-spacing: 0px;
+  --text-9xl-leading-none-font-extralight-line-height: 128px;
+  --text-9xl-leading-none-font-light-font-family: "Inter-Light", Helvetica;
+  --text-9xl-leading-none-font-light-font-size: 128px;
+  --text-9xl-leading-none-font-light-font-style: normal;
+  --text-9xl-leading-none-font-light-font-weight: 300;
+  --text-9xl-leading-none-font-light-letter-spacing: 0px;
+  --text-9xl-leading-none-font-light-line-height: 128px;
+  --text-9xl-leading-none-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-9xl-leading-none-font-medium-font-size: 128px;
+  --text-9xl-leading-none-font-medium-font-style: normal;
+  --text-9xl-leading-none-font-medium-font-weight: 500;
+  --text-9xl-leading-none-font-medium-letter-spacing: 0px;
+  --text-9xl-leading-none-font-medium-line-height: 128px;
+  --text-9xl-leading-none-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-9xl-leading-none-font-normal-font-size: 128px;
+  --text-9xl-leading-none-font-normal-font-style: normal;
+  --text-9xl-leading-none-font-normal-font-weight: 400;
+  --text-9xl-leading-none-font-normal-letter-spacing: 0px;
+  --text-9xl-leading-none-font-normal-line-height: 128px;
+  --text-9xl-leading-none-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-9xl-leading-none-font-semibold-font-size: 128px;
+  --text-9xl-leading-none-font-semibold-font-style: normal;
+  --text-9xl-leading-none-font-semibold-font-weight: 600;
+  --text-9xl-leading-none-font-semibold-letter-spacing: 0px;
+  --text-9xl-leading-none-font-semibold-line-height: 128px;
+  --text-9xl-leading-none-font-thin-font-family: "Inter-Thin", Helvetica;
+  --text-9xl-leading-none-font-thin-font-size: 128px;
+  --text-9xl-leading-none-font-thin-font-style: normal;
+  --text-9xl-leading-none-font-thin-font-weight: 100;
+  --text-9xl-leading-none-font-thin-letter-spacing: 0px;
+  --text-9xl-leading-none-font-thin-line-height: 128px;
+  --text-base-leading-6-font-black-font-family: "Inter-Black", Helvetica;
+  --text-base-leading-6-font-black-font-size: 16px;
+  --text-base-leading-6-font-black-font-style: normal;
+  --text-base-leading-6-font-black-font-weight: 900;
+  --text-base-leading-6-font-black-letter-spacing: 0px;
+  --text-base-leading-6-font-black-line-height: 24px;
+  --text-base-leading-6-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-base-leading-6-font-bold-font-size: 16px;
+  --text-base-leading-6-font-bold-font-style: normal;
+  --text-base-leading-6-font-bold-font-weight: 700;
+  --text-base-leading-6-font-bold-letter-spacing: 0px;
+  --text-base-leading-6-font-bold-line-height: 24px;
+  --text-base-leading-6-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-base-leading-6-font-extrabold-font-size: 16px;
+  --text-base-leading-6-font-extrabold-font-style: normal;
+  --text-base-leading-6-font-extrabold-font-weight: 800;
+  --text-base-leading-6-font-extrabold-letter-spacing: 0px;
+  --text-base-leading-6-font-extrabold-line-height: 24px;
+  --text-base-leading-6-font-light-font-family: "Inter-Light", Helvetica;
+  --text-base-leading-6-font-light-font-size: 16px;
+  --text-base-leading-6-font-light-font-style: normal;
+  --text-base-leading-6-font-light-font-weight: 300;
+  --text-base-leading-6-font-light-letter-spacing: 0px;
+  --text-base-leading-6-font-light-line-height: 24px;
+  --text-base-leading-6-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-base-leading-6-font-medium-font-size: 16px;
+  --text-base-leading-6-font-medium-font-style: normal;
+  --text-base-leading-6-font-medium-font-weight: 500;
+  --text-base-leading-6-font-medium-letter-spacing: 0px;
+  --text-base-leading-6-font-medium-line-height: 24px;
+  --text-base-leading-6-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-base-leading-6-font-normal-font-size: 16px;
+  --text-base-leading-6-font-normal-font-style: normal;
+  --text-base-leading-6-font-normal-font-weight: 400;
+  --text-base-leading-6-font-normal-letter-spacing: 0px;
+  --text-base-leading-6-font-normal-line-height: 24px;
+  --text-base-leading-6-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-base-leading-6-font-semibold-font-size: 16px;
+  --text-base-leading-6-font-semibold-font-style: normal;
+  --text-base-leading-6-font-semibold-font-weight: 600;
+  --text-base-leading-6-font-semibold-letter-spacing: 0px;
+  --text-base-leading-6-font-semibold-line-height: 24px;
+  --text-lg-leading-7-font-black-font-family: "Inter-Black", Helvetica;
+  --text-lg-leading-7-font-black-font-size: 18px;
+  --text-lg-leading-7-font-black-font-style: normal;
+  --text-lg-leading-7-font-black-font-weight: 900;
+  --text-lg-leading-7-font-black-letter-spacing: 0px;
+  --text-lg-leading-7-font-black-line-height: 28px;
+  --text-lg-leading-7-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-lg-leading-7-font-bold-font-size: 18px;
+  --text-lg-leading-7-font-bold-font-style: normal;
+  --text-lg-leading-7-font-bold-font-weight: 700;
+  --text-lg-leading-7-font-bold-letter-spacing: 0px;
+  --text-lg-leading-7-font-bold-line-height: 28px;
+  --text-lg-leading-7-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-lg-leading-7-font-extrabold-font-size: 18px;
+  --text-lg-leading-7-font-extrabold-font-style: normal;
+  --text-lg-leading-7-font-extrabold-font-weight: 800;
+  --text-lg-leading-7-font-extrabold-letter-spacing: 0px;
+  --text-lg-leading-7-font-extrabold-line-height: 28px;
+  --text-lg-leading-7-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-lg-leading-7-font-extralight-font-size: 18px;
+  --text-lg-leading-7-font-extralight-font-style: normal;
+  --text-lg-leading-7-font-extralight-font-weight: 200;
+  --text-lg-leading-7-font-extralight-letter-spacing: 0px;
+  --text-lg-leading-7-font-extralight-line-height: 28px;
+  --text-lg-leading-7-font-light-font-family: "Inter-Light", Helvetica;
+  --text-lg-leading-7-font-light-font-size: 18px;
+  --text-lg-leading-7-font-light-font-style: normal;
+  --text-lg-leading-7-font-light-font-weight: 300;
+  --text-lg-leading-7-font-light-letter-spacing: 0px;
+  --text-lg-leading-7-font-light-line-height: 28px;
+  --text-lg-leading-7-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-lg-leading-7-font-medium-font-size: 18px;
+  --text-lg-leading-7-font-medium-font-style: normal;
+  --text-lg-leading-7-font-medium-font-weight: 500;
+  --text-lg-leading-7-font-medium-letter-spacing: 0px;
+  --text-lg-leading-7-font-medium-line-height: 28px;
+  --text-lg-leading-7-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-lg-leading-7-font-normal-font-size: 18px;
+  --text-lg-leading-7-font-normal-font-style: normal;
+  --text-lg-leading-7-font-normal-font-weight: 400;
+  --text-lg-leading-7-font-normal-letter-spacing: 0px;
+  --text-lg-leading-7-font-normal-line-height: 28px;
+  --text-lg-leading-7-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-lg-leading-7-font-semibold-font-size: 18px;
+  --text-lg-leading-7-font-semibold-font-style: normal;
+  --text-lg-leading-7-font-semibold-font-weight: 600;
+  --text-lg-leading-7-font-semibold-letter-spacing: 0px;
+  --text-lg-leading-7-font-semibold-line-height: 28px;
+  --text-sm-leading-5-font-black-font-family: "Inter-Black", Helvetica;
+  --text-sm-leading-5-font-black-font-size: 14px;
+  --text-sm-leading-5-font-black-font-style: normal;
+  --text-sm-leading-5-font-black-font-weight: 900;
+  --text-sm-leading-5-font-black-letter-spacing: 0px;
+  --text-sm-leading-5-font-black-line-height: 20px;
+  --text-sm-leading-5-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-sm-leading-5-font-bold-font-size: 14px;
+  --text-sm-leading-5-font-bold-font-style: normal;
+  --text-sm-leading-5-font-bold-font-weight: 700;
+  --text-sm-leading-5-font-bold-letter-spacing: 0px;
+  --text-sm-leading-5-font-bold-line-height: 20px;
+  --text-sm-leading-5-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-sm-leading-5-font-extrabold-font-size: 14px;
+  --text-sm-leading-5-font-extrabold-font-style: normal;
+  --text-sm-leading-5-font-extrabold-font-weight: 800;
+  --text-sm-leading-5-font-extrabold-letter-spacing: 0px;
+  --text-sm-leading-5-font-extrabold-line-height: 20px;
+  --text-sm-leading-5-font-light-font-family: "Inter-Light", Helvetica;
+  --text-sm-leading-5-font-light-font-size: 14px;
+  --text-sm-leading-5-font-light-font-style: normal;
+  --text-sm-leading-5-font-light-font-weight: 300;
+  --text-sm-leading-5-font-light-letter-spacing: 0px;
+  --text-sm-leading-5-font-light-line-height: 20px;
+  --text-sm-leading-5-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-sm-leading-5-font-medium-font-size: 14px;
+  --text-sm-leading-5-font-medium-font-style: normal;
+  --text-sm-leading-5-font-medium-font-weight: 500;
+  --text-sm-leading-5-font-medium-letter-spacing: 0px;
+  --text-sm-leading-5-font-medium-line-height: 20px;
+  --text-sm-leading-5-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-sm-leading-5-font-normal-font-size: 14px;
+  --text-sm-leading-5-font-normal-font-style: normal;
+  --text-sm-leading-5-font-normal-font-weight: 400;
+  --text-sm-leading-5-font-normal-letter-spacing: 0px;
+  --text-sm-leading-5-font-normal-line-height: 20px;
+  --text-sm-leading-5-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-sm-leading-5-font-semibold-font-size: 14px;
+  --text-sm-leading-5-font-semibold-font-style: normal;
+  --text-sm-leading-5-font-semibold-font-weight: 600;
+  --text-sm-leading-5-font-semibold-letter-spacing: 0px;
+  --text-sm-leading-5-font-semibold-line-height: 20px;
+  --text-xl-leading-7-font-black-font-family: "Inter-Black", Helvetica;
+  --text-xl-leading-7-font-black-font-size: 20px;
+  --text-xl-leading-7-font-black-font-style: normal;
+  --text-xl-leading-7-font-black-font-weight: 900;
+  --text-xl-leading-7-font-black-letter-spacing: 0px;
+  --text-xl-leading-7-font-black-line-height: 28px;
+  --text-xl-leading-7-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-xl-leading-7-font-bold-font-size: 20px;
+  --text-xl-leading-7-font-bold-font-style: normal;
+  --text-xl-leading-7-font-bold-font-weight: 700;
+  --text-xl-leading-7-font-bold-letter-spacing: 0px;
+  --text-xl-leading-7-font-bold-line-height: 28px;
+  --text-xl-leading-7-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-xl-leading-7-font-extrabold-font-size: 20px;
+  --text-xl-leading-7-font-extrabold-font-style: normal;
+  --text-xl-leading-7-font-extrabold-font-weight: 800;
+  --text-xl-leading-7-font-extrabold-letter-spacing: 0px;
+  --text-xl-leading-7-font-extrabold-line-height: 28px;
+  --text-xl-leading-7-font-extralight-font-family: "Inter-ExtraLight", Helvetica;
+  --text-xl-leading-7-font-extralight-font-size: 20px;
+  --text-xl-leading-7-font-extralight-font-style: normal;
+  --text-xl-leading-7-font-extralight-font-weight: 200;
+  --text-xl-leading-7-font-extralight-letter-spacing: 0px;
+  --text-xl-leading-7-font-extralight-line-height: 28px;
+  --text-xl-leading-7-font-light-font-family: "Inter-Light", Helvetica;
+  --text-xl-leading-7-font-light-font-size: 20px;
+  --text-xl-leading-7-font-light-font-style: normal;
+  --text-xl-leading-7-font-light-font-weight: 300;
+  --text-xl-leading-7-font-light-letter-spacing: 0px;
+  --text-xl-leading-7-font-light-line-height: 28px;
+  --text-xl-leading-7-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-xl-leading-7-font-medium-font-size: 20px;
+  --text-xl-leading-7-font-medium-font-style: normal;
+  --text-xl-leading-7-font-medium-font-weight: 500;
+  --text-xl-leading-7-font-medium-letter-spacing: 0px;
+  --text-xl-leading-7-font-medium-line-height: 28px;
+  --text-xl-leading-7-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-xl-leading-7-font-normal-font-size: 20px;
+  --text-xl-leading-7-font-normal-font-style: normal;
+  --text-xl-leading-7-font-normal-font-weight: 400;
+  --text-xl-leading-7-font-normal-letter-spacing: 0px;
+  --text-xl-leading-7-font-normal-line-height: 28px;
+  --text-xl-leading-7-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-xl-leading-7-font-semibold-font-size: 20px;
+  --text-xl-leading-7-font-semibold-font-style: normal;
+  --text-xl-leading-7-font-semibold-font-weight: 600;
+  --text-xl-leading-7-font-semibold-letter-spacing: 0px;
+  --text-xl-leading-7-font-semibold-line-height: 28px;
+  --text-xs-leading-4-font-black-font-family: "Inter-Black", Helvetica;
+  --text-xs-leading-4-font-black-font-size: 12px;
+  --text-xs-leading-4-font-black-font-style: normal;
+  --text-xs-leading-4-font-black-font-weight: 900;
+  --text-xs-leading-4-font-black-letter-spacing: 0px;
+  --text-xs-leading-4-font-black-line-height: 16px;
+  --text-xs-leading-4-font-bold-font-family: "Inter-Bold", Helvetica;
+  --text-xs-leading-4-font-bold-font-size: 12px;
+  --text-xs-leading-4-font-bold-font-style: normal;
+  --text-xs-leading-4-font-bold-font-weight: 700;
+  --text-xs-leading-4-font-bold-letter-spacing: 0px;
+  --text-xs-leading-4-font-bold-line-height: 16px;
+  --text-xs-leading-4-font-extrabold-font-family: "Inter-ExtraBold", Helvetica;
+  --text-xs-leading-4-font-extrabold-font-size: 12px;
+  --text-xs-leading-4-font-extrabold-font-style: normal;
+  --text-xs-leading-4-font-extrabold-font-weight: 800;
+  --text-xs-leading-4-font-extrabold-letter-spacing: 0px;
+  --text-xs-leading-4-font-extrabold-line-height: 16px;
+  --text-xs-leading-4-font-medium-font-family: "Inter-Medium", Helvetica;
+  --text-xs-leading-4-font-medium-font-size: 12px;
+  --text-xs-leading-4-font-medium-font-style: normal;
+  --text-xs-leading-4-font-medium-font-weight: 500;
+  --text-xs-leading-4-font-medium-letter-spacing: 0px;
+  --text-xs-leading-4-font-medium-line-height: 16px;
+  --text-xs-leading-4-font-normal-font-family: "Inter-Regular", Helvetica;
+  --text-xs-leading-4-font-normal-font-size: 12px;
+  --text-xs-leading-4-font-normal-font-style: normal;
+  --text-xs-leading-4-font-normal-font-weight: 400;
+  --text-xs-leading-4-font-normal-letter-spacing: 0px;
+  --text-xs-leading-4-font-normal-line-height: 16px;
+  --text-xs-leading-4-font-semibold-font-family: "Inter-SemiBold", Helvetica;
+  --text-xs-leading-4-font-semibold-font-size: 12px;
+  --text-xs-leading-4-font-semibold-font-style: normal;
+  --text-xs-leading-4-font-semibold-font-weight: 600;
+  --text-xs-leading-4-font-semibold-letter-spacing: 0px;
+  --text-xs-leading-4-font-semibold-line-height: 16px;
+}
+
+/*# sourceMappingURL=index.ce17cef9.css.map */
